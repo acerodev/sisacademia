@@ -1,0 +1,1 @@
+Debes cambiar el nombre del "index" por "index_mantenimiento" y luego regresar como estaban.
